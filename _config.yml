@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Automata Theory
-course_description: Course description.
+course_description: An automaton is a construct made of states designed to determine if the input should be accepted or rejected. It looks a lot like a basic board game where each space on the board represents a state. Each state has information about what to do when an input is received by the machine (again, rather like what to do when you land on the Jail spot in a popular board game). As the machine receives a new input, it looks at the state and picks a new spot based on the information on what to do when it receives that input at that state. When there are no more inputs, the automaton stops and the space it is on when it completes determines whether the automaton accepts or rejects that particular set of inputs. 
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.Mohammadreza Kangavari
